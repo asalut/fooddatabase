@@ -1,5 +1,5 @@
 # wikifoodie
-A wiki for foods. Because all other available food databases in the net are not free. Bummer.
+A wiki for foods - because all other available food databases in the net are not free. Bummer.
 
 # app overview
 - CRUD for food/ingredient along its data

@@ -1,13 +1,17 @@
 # wikifoodie
-Because all other available food databases in the net are not free. What a bummer.
+A wiki for foods. Because all other available food databases in the net are not free. Bummer.
 
 # app overview
 - CRUD for food/ingredient along its data
 - REST APIs for food CRUD
 - UI for food CRUD
 
-## future
+**future**
 - CRUD for user
+- User login
+- Approval for adding and updating a food
+  - vote-based approval
+  - time-based automatic approval
 
 # tech specs
 - Java
